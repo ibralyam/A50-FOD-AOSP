@@ -1,4 +1,4 @@
-# [INFO] Galaxy A50 (a50dd) – In-Display Fingerprint on Android 16 GSI (LineageOS 23.2)
+# Galaxy A505f In-Display Fingerprint on Android 16 GSI (LineageOS 23.2)
 
 **Status:** Investigation closed. FOD UI works. Enrollment does NOT work.
 **Device:** Samsung Galaxy A50 (SM-A505F/DS, codename `a50dd`, Exynos 9610)
