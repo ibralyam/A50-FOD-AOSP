@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Summary (TL;DR)
+## 1. Summary
 
 - The FOD icon and FOD screen can be made to show up with a vendor overlay.
 - Touching the sensor area is detected as a FOD touch.
