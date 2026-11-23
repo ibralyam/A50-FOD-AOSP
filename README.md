@@ -11,7 +11,7 @@ One row for each ROM, vendor and kernel combination. Add a row when you test som
 
 | ROM | Android | Vendor | Kernel | FOD UI | Enroll | Result | Details |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LineageOS 23.2 (GSI) | 16 | A505f-vendor (A505FDDS9CUK1) | Mint 1413, permissive | Works ([video](results/lineageos-23.2-a16/udfps-touch-no-enroll.mp4)) | Fails, error 38 | Closed | [results](results/lineageos-23.2-a16/README.md) |
+| LineageOS 23.2 (GSI) | 16 | A505f-vendor (A505FDDS9CUK1) | Mint 1413, permissive | Works ([GIF](results/lineageos-23.2-a16/udfps-touch-no-enroll.gif)) | Fails, error 38 | Closed | [results](results/lineageos-23.2-a16/README.md) |
 | LineageOS 23.2 (GSI) | 16 | f4vendor (A505FDDS9CVA4) | Mint 1413, permissive | Not tested | Not tested | Dropped: broke Hotspot and Bluetooth | [report](docs/INVESTIGATION.md#10-vendor-comparison) |
 
 Result values: Not tested, Partial, Closed (no fix found), Solved.
@@ -24,7 +24,10 @@ Result values: Not tested, Partial, Closed (no fix found), Solved.
 
 ## Review
 
-- **LineageOS 23.2 (`SM-A505F`, `A505f-vendor`):** Touch detected on UDFPS UI and enrollment screen advances, but enrollment does not complete (`results/lineageos-23.2-a16/udfps-touch-no-enroll.mp4`).
+- **LineageOS 23.2 (`SM-A505F`, `A505f-vendor`):** Touch detected on UDFPS UI and enrollment screen advances, but enrollment does not complete.
+
+![UDFPS touch no enroll](results/lineageos-23.2-a16/udfps-touch-no-enroll.gif)
+
 - _Add your review notes for new ROM, vendor, or kernel tests here._
 
 ## Documents
