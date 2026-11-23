@@ -1,0 +1,164 @@
+[   83.951033] samsung-abox-wdma 14a52300.abox_wdma: abox_request_cpu_gear(da10000b, 4)
+[   83.951063] samsung-abox 14a50000.abox: pm qos request aud: req=1636958208kHz ret=394000kHz
+[   83.951121] samsung-abox 14a50000.abox: abox_hw_params_fixup_helper[UAIF4](1)
+[filtered: only lines matching fingerprint related keywords]
+[   83.951764] tfa_run_startup: skip init and writing registers under dev (0:0)
+[   83.951778] tfa_run_startup: skip writing registers under profile (0)
+[   87.309874] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[   91.170511] tfa_run_startup: skip init and writing registers under dev (0:0)
+[   91.170549] tfa_run_startup: skip writing registers under profile (0)
+[   95.453264] tfa_run_startup: skip init and writing registers under dev (0:0)
+[   95.453282] tfa_run_startup: skip writing registers under profile (0)
+[   98.403215] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  109.496933] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  109.928932] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  109.928948] tfa_run_startup: skip writing registers under profile (0)
+[  116.706081] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  116.706098] tfa_run_startup: skip writing registers under profile (0)
+[  120.376601] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  131.469907] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  142.349871] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  153.443596] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  158.724576] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  158.724592] tfa_run_startup: skip writing registers under profile (0)
+[  163.156934] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  163.156942] tfa_run_startup: skip writing registers under profile (0)
+[  164.323933] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  170.722739] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  170.722753] tfa_run_startup: skip writing registers under profile (0)
+[  174.313804] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  174.313817] tfa_run_startup: skip writing registers under profile (0)
+[  175.416528] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  180.980793] servicemanager: Notifying artd they do (previously: don't) have clients when service is guaranteed to be in use
+[  182.329995] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  182.330009] tfa_run_startup: skip writing registers under profile (0)
+[  185.863572] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  185.863586] tfa_run_startup: skip writing registers under profile (0)
+[  186.296545] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  194.052722] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  194.052734] tfa_run_startup: skip writing registers under profile (0)
+[  197.390025] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  208.483633] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  219.363208] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  221.313223] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  221.313235] tfa_run_startup: skip writing registers under profile (0)
+[  227.262850] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  227.262862] tfa_run_startup: skip writing registers under profile (0)
+[  230.459203] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  241.336536] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  243.847242] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  243.847259] tfa_run_startup: skip writing registers under profile (0)
+[  247.524797] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  247.524807] tfa_run_startup: skip writing registers under profile (0)
+[  252.430031] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  255.265895] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  255.265905] tfa_run_startup: skip writing registers under profile (0)
+[  263.310463] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  274.403202] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  285.497090] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  296.377276] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  307.470224] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  318.350604] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  329.443807] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  340.323757] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  342.328724] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  342.328739] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  342.346071] etspi_pm_suspend
+[  342.347608] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[  342.648482] exynos_acme: CPUFREQ domain1 registered
+[  342.670388] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[  342.670641] [sec_input] gpio_keys_gpio_report_event: 114 (0)
+[  342.670692] [sec_input] gpio_keys_gpio_report_event: 115 (0)
+[  342.670751] [sec_input] gpio_keys_gpio_report_event: 116 (0)
+[  342.670864] etspi_pm_resume
+[  343.181882] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  343.181908] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  343.199167] etspi_pm_suspend
+[  343.200386] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[  343.487558] exynos_acme: CPUFREQ domain1 registered
+[  343.507416] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[  343.507678] [sec_input] gpio_keys_gpio_report_event: 114 (0)
+[  343.507741] [sec_input] gpio_keys_gpio_report_event: 115 (0)
+[  343.507805] [sec_input] gpio_keys_gpio_report_event: 116 (0)
+[  343.507907] etspi_pm_resume
+[  344.010813] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  344.010868] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  344.033238] etspi_pm_suspend
+[  344.034266] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[  344.354046] exynos_acme: CPUFREQ domain1 registered
+[  344.374950] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[  344.375367] [sec_input] gpio_keys_gpio_report_event: 114 (0)
+[  344.375387] [sec_input] gpio_keys_gpio_report_event: 115 (0)
+[  344.375400] [sec_input] gpio_keys_gpio_report_event: 116 (0)
+[  344.375464] etspi_pm_resume
+[  344.811158] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  344.811181] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  344.828095] etspi_pm_suspend
+[  344.829035] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[  345.140553] exynos_acme: CPUFREQ domain1 registered
+[  345.161500] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[  345.161914] [sec_input] gpio_keys_gpio_report_event: 114 (0)
+[  345.161935] [sec_input] gpio_keys_gpio_report_event: 115 (0)
+[  345.161948] [sec_input] gpio_keys_gpio_report_event: 116 (0)
+[  345.162012] etspi_pm_resume
+[  345.596534] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  345.596549] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  345.613737] etspi_pm_suspend
+[  345.614909] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[  345.913804] exynos_acme: CPUFREQ domain1 registered
+[  345.930915] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[  345.931179] [sec_input] gpio_keys_gpio_report_event: 114 (0)
+[  345.931300] [sec_input] gpio_keys_gpio_report_event: 115 (0)
+[  345.931349] [sec_input] gpio_keys_gpio_report_event: 116 (0)
+[  345.931414] etspi_pm_resume
+[  346.368356] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  346.368441] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  346.386084] etspi_pm_suspend
+[  346.387062] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[  346.713601] exynos_acme: CPUFREQ domain1 registered
+[  346.730799] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[  346.731150] [sec_input] gpio_keys_gpio_report_event: 114 (0)
+[  346.731173] [sec_input] gpio_keys_gpio_report_event: 115 (0)
+[  346.731225] [sec_input] gpio_keys_gpio_report_event: 116 (0)
+[  346.731289] etspi_pm_resume
+[  347.183891] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  347.183907] TZDEV> ERR tz_uiwsock_recv(183): Failed to read data ret=-512, filp=0000000000000000
+[  347.201129] etspi_pm_suspend
+[  347.202044] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[  347.526892] exynos_acme: CPUFREQ domain1 registered
+[  347.547512] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[  347.547776] [sec_input] gpio_keys_gpio_report_event: 114 (0)
+[  347.547879] [sec_input] gpio_keys_gpio_report_event: 115 (0)
+[  347.547894] [sec_input] gpio_keys_gpio_report_event: 116 (0)
+[  347.548022] etspi_pm_resume
+[  351.245846] [sec_input] sec_cmd_store: push cmd: check_connection
+[  351.245869] [sec_input] sec_cmd_store_function: cmd = check_connection
+[  351.246304] [sec_input] sec_cmd_show_result: check_connection:NG
+[  355.028006] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  355.028019] tfa_run_startup: skip writing registers under profile (0)
+[  358.455493] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  364.472757] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  364.472774] tfa_run_startup: skip writing registers under profile (0)
+[  369.336077] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  372.847143] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  372.847155] tfa_run_startup: skip writing registers under profile (0)
+[  380.428842] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  391.522764] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  402.402234] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  413.495945] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  419.052155] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  419.052164] tfa_run_startup: skip writing registers under profile (0)
+[  424.378933] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  435.468805] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  446.349432] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  457.442160] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  468.322133] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  479.415454] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  490.508828] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  491.721439] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  491.721452] tfa_run_startup: skip writing registers under profile (0)
+[  497.027442] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  497.027456] tfa_run_startup: skip writing registers under profile (0)
+[  501.388838] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[  504.919993] tfa_run_startup: skip init and writing registers under dev (0:0)
+[  504.920004] tfa_run_startup: skip writing registers under profile (0)

@@ -1,0 +1,201 @@
+11-09 15:03:58.854     0     0 I [4:           init:    1] init: Parsing file /system/etc/init/android.hardware.biometrics.fingerprint@2.1-service.oplus.rc...
+11-09 15:03:58.854     0     0 I [4:           init:    1] init: Parsing file /system/etc/init/android.hardware.biometrics.fingerprint@2.1-service.oppo.rc...
+11-09 15:03:58.908     0     0 I [4:           init:    1] init: Parsing file /vendor/etc/init/vendor.samsung.hardware.biometrics.fingerprint@2.1-service.a50.rc...
+11-09 15:04:05.411     0     0 E [6:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4371 (/system/system_ext/bin/hwservicemanager)
+11-09 15:04:05.413     0     0 E [6:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4371 (/system/system_ext/bin/hwservicemanager)
+11-09 15:04:06.416     0     0 E [3:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4371 (/system/system_ext/bin/hwservicemanager)
+11-09 15:04:07.417     0     0 E [2:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4371 (/system/system_ext/bin/hwservicemanager)
+11-09 15:04:08.448     0     0 E [7:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4371 (/system/system_ext/bin/hwservicemanager)
+11-09 15:04:09.429     0     0 E [7:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4371 (/system/system_ext/bin/hwservicemanager)
+11-09 15:04:09.608     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_CPU_SPEEDUP
+11-09 15:04:09.608     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 15:04:09.608     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:09.608     0     0 I         : [7:fingerprint@2.1: 5826] etspi_reset
+11-09 15:04:09.633     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:09.633     0     0 I         : [7:fingerprint@2.1: 5826] etspi_reset
+11-09 15:04:09.700     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:09.700     0     0 I         : [7:fingerprint@2.1: 5826] etspi_power_control status = 0
+11-09 15:04:09.700     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:09.700     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:04:14.701     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:04:14.701     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:04:14.701     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:04:14.701     0     0 I         : [5:fingerprint@2.1: 5826] etspi_power_control status = 1
+11-09 15:04:14.732     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:14.732     0     0 I         : [5:fingerprint@2.1: 5826] etspi_reset
+11-09 15:04:14.757     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:14.757     0     0 I         : [7:fingerprint@2.1: 5826] etspi_reset
+11-09 15:04:14.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:14.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_power_control status = 0
+11-09 15:04:14.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:14.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:04:21.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:04:21.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:04:21.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:04:21.785     0     0 I         : [7:fingerprint@2.1: 5826] etspi_power_control status = 1
+11-09 15:04:21.818     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:21.818     0     0 I         : [7:fingerprint@2.1: 5826] etspi_reset
+11-09 15:04:21.843     0     0 I         : [4:fingerprint@2.1: 5826] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:21.843     0     0 I         : [4:fingerprint@2.1: 5826] etspi_reset
+11-09 15:04:21.872     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:21.872     0     0 I         : [5:fingerprint@2.1: 5826] etspi_power_control status = 0
+11-09 15:04:21.873     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:21.873     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:04:31.873     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:04:31.873     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:04:31.873     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:04:31.873     0     0 I         : [5:fingerprint@2.1: 5826] etspi_power_control status = 1
+11-09 15:04:31.906     0     0 I         : [6:fingerprint@2.1: 5826] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:31.906     0     0 I         : [6:fingerprint@2.1: 5826] etspi_reset
+11-09 15:04:31.933     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl maintain type check from out of order :failed
+11-09 15:04:31.936     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl spi_value: 0xffffffff
+11-09 15:04:31.955     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:31.955     0     0 I         : [5:fingerprint@2.1: 5826] etspi_power_control status = 0
+11-09 15:04:31.955     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:31.955     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:04:31.955     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl maintain type check from out of order :failed
+11-09 15:04:31.955     0     0 I         : [5:fingerprint@2.1: 5826] etspi_ioctl spi_value: 0x0
+11-09 15:04:32.014     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:04:32.014     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:04:32.014     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:04:32.014     0     0 I         : [7:fingerprint@2.1: 5826] etspi_power_control status = 1
+11-09 15:04:32.048     0     0 E I[0:fingerprint@2.1: 5826] gif: kepler_req_init_isr: REQ_INIT Interrupt occurred!
+11-09 15:04:32.109     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_CPU_SPEEDUP
+11-09 15:04:32.109     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_CPU_SPEEDUP ON:1, retry: 0
+11-09 15:04:32.109     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_CPU_SPEEDUP
+11-09 15:04:32.109     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 15:04:32.112     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:32.112     0     0 I         : [7:fingerprint@2.1: 5826] etspi_power_control status = 0
+11-09 15:04:32.112     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:32.112     0     0 I         : [7:fingerprint@2.1: 5826] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:04:37.273  5891  6274 D HidlToAidlSensorAdapter: Fingerprint HAL died.
+11-09 15:04:37.277     0     0 I         : [7:fingerprint@2.1: 5753] etspi_release
+11-09 15:04:38.604     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_CPU_SPEEDUP
+11-09 15:04:38.604     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 15:04:38.604     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:38.604     0     0 I         : [7:fingerprint@2.1: 7284] etspi_reset
+11-09 15:04:38.630     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:38.630     0     0 I         : [7:fingerprint@2.1: 7284] etspi_reset
+11-09 15:04:38.659     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:38.659     0     0 I         : [7:fingerprint@2.1: 7284] etspi_power_control status = 0
+11-09 15:04:38.659     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:38.659     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:04:43.660     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:04:43.660     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:04:43.660     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:04:43.660     0     0 I         : [7:fingerprint@2.1: 7284] etspi_power_control status = 1
+11-09 15:04:43.694     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:43.694     0     0 I         : [7:fingerprint@2.1: 7284] etspi_reset
+11-09 15:04:43.722     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:43.722     0     0 I         : [7:fingerprint@2.1: 7284] etspi_reset
+11-09 15:04:43.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:43.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_power_control status = 0
+11-09 15:04:43.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:43.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:04:46.664  5891  7407 D FingerprintProvider/defaultHIDL: Starting watchdog for fingerprint
+11-09 15:04:47.813  5891  5891 D FingerprintProvider/defaultHIDL: Initializing AuthenticationStatsCollector
+11-09 15:04:48.802  5891  6068 D HidlToAidlSessionAdapter: Fingerprint HAL ready, HAL ID: 542955439312
+11-09 15:04:50.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:04:50.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:04:50.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:04:50.758     0     0 I         : [6:fingerprint@2.1: 7284] etspi_power_control status = 1
+11-09 15:04:50.795     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:50.795     0     0 I         : [6:fingerprint@2.1: 7284] etspi_reset
+11-09 15:04:50.821     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_SENSOR_RESET
+11-09 15:04:50.821     0     0 I         : [6:fingerprint@2.1: 7284] etspi_reset
+11-09 15:04:50.856     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:04:50.856     0     0 I         : [6:fingerprint@2.1: 7284] etspi_power_control status = 0
+11-09 15:04:50.856     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:04:50.856     0     0 I         : [6:fingerprint@2.1: 7284] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:05:00.853  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1053
+11-09 15:05:00.853  7190  7284 I bauth_FPBAuthService: 1 0
+11-09 15:05:00.857     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:05:00.857     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:05:00.857     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:05:00.857     0     0 I         : [7:fingerprint@2.1: 7284] etspi_power_control status = 1
+11-09 15:05:00.858  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 218
+11-09 15:05:00.861  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1099
+11-09 15:05:00.863  7190  7284 I bauth_FPBAuthService: FPBAuthService, 3633
+11-09 15:05:00.891     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SENSOR_RESET
+11-09 15:05:00.887  7190  7284 I bauth_FPBAuthService: check_opcode status = 0, opcode = 8, func_ret_val = 0, function_status = 0, timeout = 0
+11-09 15:05:00.891     0     0 I         : [7:fingerprint@2.1: 7284] etspi_reset
+11-09 15:05:00.888  7190  7284 I bauth_FPBAuthService: FPBAuthService, 3494
+11-09 15:05:00.913  7190  7284 I bauth_FPBAuthService: check_opcode status = 0, opcode = 0, func_ret_val = 38, function_status = 0, timeout = 0
+11-09 15:05:00.913  7190  7284 I bauth_FPBAuthService: FPBAuthService, 11586
+11-09 15:05:00.913  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 474
+11-09 15:05:00.913  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2332
+11-09 15:05:00.917     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl maintain type check from out of order :failed
+11-09 15:05:00.915  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2341
+11-09 15:05:00.915  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 749
+11-09 15:05:00.915  7190  7284 I bauth_FPBAuthService: FPBAuthService, 8643
+11-09 15:05:00.915  7190  7284 E bauth_FPBAuthService: cancel failed m_cancel_flag : 2
+11-09 15:05:00.915  7190  7284 I bauth_FPBAuthService: srwf 1 ct 3 cf 2 prf 1
+11-09 15:05:00.915  7190  7284 I bauth_FPBAuthService: check_opcode status = 5, opcode = 0, func_ret_val = 0, function_status = 0, timeout = 0
+11-09 15:05:00.919     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl spi_value: 0xffffffff
+11-09 15:05:00.928  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2437
+11-09 15:05:00.929  7190  7284 I bauth_FPBAuthService: 0 1
+11-09 15:05:00.930  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 240
+11-09 15:05:00.930  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1145
+11-09 15:05:00.930  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2457
+11-09 15:05:00.930  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 474
+11-09 15:05:00.930  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2473
+11-09 15:05:00.930  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2482
+11-09 15:05:00.930  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 749
+11-09 15:05:00.933     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:05:00.933     0     0 I         : [7:fingerprint@2.1: 7284] etspi_power_control status = 0
+11-09 15:05:00.933     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:05:00.933     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:05:00.933     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl maintain type check from out of order :failed
+11-09 15:05:00.934     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl spi_value: 0x0
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1373
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: lb
+11-09 15:05:00.940  7190  7284 E bauth_FPBAuthServiceStorage:  FPBAuthServiceStorage::readBDSMetaData fileopen error : 2
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: lbl 0
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: check_opcode status = 5, opcode = 81, func_ret_val = 67, function_status = 0, timeout = 0
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: FPBAuthService, 11586
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: FPBAuthService, 11590
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: FPBAuthService, 8643
+11-09 15:05:00.940  7190  7284 E bauth_FPBAuthService: cancel failed m_cancel_flag : 2
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: srwf 1 ct 3 cf 2 prf 1
+11-09 15:05:00.940  7190  7284 I bauth_FPBAuthService: check_opcode status = 5, opcode = 0, func_ret_val = 0, function_status = 0, timeout = 0
+11-09 15:05:00.941  7190  7284 I bauth_FPBAuthService: 0 0
+11-09 15:05:00.941  7190  7284 I bauth_FPBAuthService: already closed
+11-09 15:05:00.941  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2457
+11-09 15:05:00.991  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1053
+11-09 15:05:00.991  7190  7284 I bauth_FPBAuthService: 1 0
+11-09 15:05:00.995  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 218
+11-09 15:05:00.995  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1099
+11-09 15:05:00.995  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2537
+11-09 15:05:00.995     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 15:05:00.995     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 15:05:00.995     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 15:05:00.995     0     0 I         : [7:fingerprint@2.1: 7284] etspi_power_control status = 1
+11-09 15:05:01.040     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_CPU_SPEEDUP
+11-09 15:05:01.036  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1247
+11-09 15:05:01.037  7190  7284 E bauth_FPBAuthService: check_cancel_flag : 2
+11-09 15:05:01.037  7190  7284 I bauth_FPBAuthService: FPBAuthService, 8643
+11-09 15:05:01.040     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_CPU_SPEEDUP ON:1, retry: 0
+11-09 15:05:01.037  7190  7284 I bauth_FPBAuthService: check_opcode status = 5, opcode = 0, func_ret_val = 0, function_status = 0, timeout = 0
+11-09 15:05:01.037  7190  7284 I bauth_FPBAuthService: 0 1
+11-09 15:05:01.040     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_CPU_SPEEDUP
+11-09 15:05:01.040     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 15:05:01.044  7190  7284 I bauth_FPEGOPTBAuthSensorControl: FPEGOPTBAuthSensorControl, 240
+11-09 15:05:01.044  7190  7284 I bauth_FPBAuthService: FPBAuthService, 1145
+11-09 15:05:01.044  7190  7284 E bauth_FPBAuthService: common_prepare Fail : 38
+11-09 15:05:01.044  7190  7284 E bauth_FPBAuthService: recovery_mode :: finally recovery fail
+11-09 15:05:01.044  7190  7284 E bauth_FPBAuthService: recovery_mode fail : 38
+11-09 15:05:01.044  7190  7284 I bauth_FPBAuthService: FPBAuthService, 2268
+11-09 15:05:01.044  7190  7284 E bauth_FPBAuthService: cancel clear failed m_cancel_flag : 2
+11-09 15:05:01.044  7190  7284 I bauth_Worker: Worker, 79
+11-09 15:05:01.047     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 15:05:01.047     0     0 I         : [7:fingerprint@2.1: 7284] etspi_power_control status = 0
+11-09 15:05:01.047     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 15:05:01.047     0     0 I         : [7:fingerprint@2.1: 7284] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 15:05:06.993  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oplus.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.
+11-09 15:05:07.046  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.
+11-09 15:05:16.993  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oplus.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.
+11-09 15:05:17.047  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.
+11-09 15:05:26.995  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oplus.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.
+11-09 15:05:27.048  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.
+11-09 15:05:36.996  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oplus.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.
+11-09 15:05:37.049  4371  4371 I hwservicemanager: getTransport: Cannot find entry vendor.oppo.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default in either framework or device VINTF manifest.

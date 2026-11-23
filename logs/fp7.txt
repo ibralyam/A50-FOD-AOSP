@@ -1,0 +1,164 @@
+11-09 12:15:07.343     0     0 I [5:           init:    1] init: starting service 'vendor.fingerprint-inscreen-1-0'...
+11-09 12:15:07.349     0     0 I [5:           init:    1] init: ... started service 'vendor.fingerprint-inscreen-1-0' has pid 5541
+11-09 12:15:07.456     0     0 E [5:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4381 (/system/system_ext/bin/hwservicemanager)
+11-09 12:15:07.466     0     0 E [5:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4381 (/system/system_ext/bin/hwservicemanager)
+11-09 12:15:08.452     0     0 E [4:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4381 (/system/system_ext/bin/hwservicemanager)
+11-09 12:15:09.453     0     0 E [3:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4381 (/system/system_ext/bin/hwservicemanager)
+11-09 12:15:10.465     0     0 E [7:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4381 (/system/system_ext/bin/hwservicemanager)
+11-09 12:15:11.458     0     0 E [7:           init:    1] init: Control message: Could not find 'vendor.samsung.hardware.biometrics.fingerprint@2.1::ISecBiometricsFingerprint/default' for ctl.interface_start from pid: 4381 (/system/system_ext/bin/hwservicemanager)
+11-09 12:15:11.480     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_CPU_SPEEDUP
+11-09 12:15:11.480     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 12:15:11.480     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:11.480     0     0 I         : [7:fingerprint@2.1: 5836] etspi_reset
+11-09 12:15:11.506     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:11.506     0     0 I         : [7:fingerprint@2.1: 5836] etspi_reset
+11-09 12:15:11.538     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:11.538     0     0 I         : [7:fingerprint@2.1: 5836] etspi_power_control status = 0
+11-09 12:15:11.538     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:11.538     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:16.539     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:15:16.539     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:15:16.539     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:15:16.539     0     0 I         : [7:fingerprint@2.1: 5836] etspi_power_control status = 1
+11-09 12:15:16.569     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:16.569     0     0 I         : [7:fingerprint@2.1: 5836] etspi_reset
+11-09 12:15:16.594     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:16.594     0     0 I         : [7:fingerprint@2.1: 5836] etspi_reset
+11-09 12:15:16.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:16.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_power_control status = 0
+11-09 12:15:16.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:16.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:23.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:15:23.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:15:23.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:15:23.623     0     0 I         : [7:fingerprint@2.1: 5836] etspi_power_control status = 1
+11-09 12:15:23.655     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:23.655     0     0 I         : [7:fingerprint@2.1: 5836] etspi_reset
+11-09 12:15:23.680     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:23.680     0     0 I         : [7:fingerprint@2.1: 5836] etspi_reset
+11-09 12:15:23.716     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:23.716     0     0 I         : [7:fingerprint@2.1: 5836] etspi_power_control status = 0
+11-09 12:15:23.716     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:23.716     0     0 I         : [7:fingerprint@2.1: 5836] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:25.425     0     0 I [2: servicemanager: 4380] servicemanager: Caller(pid=5898,uid=1000,sid=u:r:system_server:s0) Could not find android.hardware.biometrics.fingerprint.IFingerprint/default in the VINTF manifest. No alternative instances declared in VINTF.
+11-09 12:15:27.975  5898  5898 D SystemServerTiming: OnBootPhase_600_com.android.server.biometrics.sensors.fingerprint.FingerprintService
+11-09 12:15:27.975  5898  5898 V SystemServerTiming: OnBootPhase_600_com.android.server.biometrics.sensors.fingerprint.FingerprintService took to complete: 0ms
+11-09 12:15:28.184  5898  5898 D SystemServerTimingAsync: ssm.onStartUser-0_com.android.server.biometrics.sensors.fingerprint.FingerprintService
+11-09 12:15:28.184  5898  5898 V SystemServerTimingAsync: ssm.onStartUser-0_com.android.server.biometrics.sensors.fingerprint.FingerprintService took to complete: 0ms
+11-09 12:15:33.717     0     0 I         : [4:fingerprint@2.1: 5836] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:15:33.717     0     0 I         : [4:fingerprint@2.1: 5836] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:15:33.717     0     0 I         : [4:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:15:33.717     0     0 I         : [4:fingerprint@2.1: 5836] etspi_power_control status = 1
+11-09 12:15:33.753     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:33.753     0     0 I         : [6:fingerprint@2.1: 5836] etspi_reset
+11-09 12:15:33.778     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl maintain type check from out of order :failed
+11-09 12:15:33.780     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl spi_value: 0xffffffff
+11-09 12:15:33.802     0     0 I         : [5:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:33.802     0     0 I         : [5:fingerprint@2.1: 5836] etspi_power_control status = 0
+11-09 12:15:33.802     0     0 I         : [5:fingerprint@2.1: 5836] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:33.802     0     0 I         : [5:fingerprint@2.1: 5836] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:33.802     0     0 I         : [5:fingerprint@2.1: 5836] etspi_ioctl maintain type check from out of order :failed
+11-09 12:15:33.802     0     0 I         : [5:fingerprint@2.1: 5836] etspi_ioctl spi_value: 0x0
+11-09 12:15:33.874     0     0 I         : [4:fingerprint@2.1: 5836] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:15:33.874     0     0 I         : [4:fingerprint@2.1: 5836] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:15:33.874     0     0 I         : [4:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:15:33.874     0     0 I         : [4:fingerprint@2.1: 5836] etspi_power_control status = 1
+11-09 12:15:33.920     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl FP_CPU_SPEEDUP
+11-09 12:15:33.920     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl FP_CPU_SPEEDUP ON:1, retry: 0
+11-09 12:15:33.921     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl FP_CPU_SPEEDUP
+11-09 12:15:33.921     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 12:15:33.924     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:33.924     0     0 I         : [6:fingerprint@2.1: 5836] etspi_power_control status = 0
+11-09 12:15:33.924     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:33.924     0     0 I         : [6:fingerprint@2.1: 5836] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:37.697  5898  5920 D ActivityManagerTiming: OnBootPhase_1000_com.android.server.biometrics.sensors.fingerprint.FingerprintService
+11-09 12:15:37.697  5898  5920 V ActivityManagerTiming: OnBootPhase_1000_com.android.server.biometrics.sensors.fingerprint.FingerprintService took to complete: 0ms
+11-09 12:15:39.072  5898  6305 D HidlToAidlSensorAdapter: Fingerprint HAL died.
+11-09 12:15:39.080     0     0 I         : [4:fingerprint@2.1: 5756] etspi_release
+11-09 12:15:40.487     0     0 I         : [6:fingerprint@2.1: 7277] etspi_ioctl FP_CPU_SPEEDUP
+11-09 12:15:40.487     0     0 I         : [6:fingerprint@2.1: 7277] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 12:15:40.487     0     0 I         : [6:fingerprint@2.1: 7277] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:40.487     0     0 I         : [6:fingerprint@2.1: 7277] etspi_reset
+11-09 12:15:40.514     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:40.515     0     0 I         : [7:fingerprint@2.1: 7277] etspi_reset
+11-09 12:15:40.545     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:40.545     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 0
+11-09 12:15:40.545     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:40.545     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:45.546     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:15:45.546     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:15:45.546     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:15:45.546     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 1
+11-09 12:15:45.576     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:45.576     0     0 I         : [7:fingerprint@2.1: 7277] etspi_reset
+11-09 12:15:45.601     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:45.601     0     0 I         : [7:fingerprint@2.1: 7277] etspi_reset
+11-09 12:15:45.633     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:45.633     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 0
+11-09 12:15:45.633     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:45.633     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:50.506  5898  6025 D BiometricDeferredQueue: Fingerprint addPendingLockoutResetForUser: 0
+11-09 12:15:50.844  5898  5931 D SystemServerTimingAsync: ssm.onUnlockingUser-0_com.android.server.biometrics.sensors.fingerprint.FingerprintService
+11-09 12:15:50.844  5898  5931 V SystemServerTimingAsync: ssm.onUnlockingUser-0_com.android.server.biometrics.sensors.fingerprint.FingerprintService took to complete: 0ms
+11-09 12:15:51.095  5898  5931 D SystemServerTimingAsync: ssm.onUnlockedUser-0_com.android.server.biometrics.sensors.fingerprint.FingerprintService
+11-09 12:15:51.095  5898  5931 V SystemServerTimingAsync: ssm.onUnlockedUser-0_com.android.server.biometrics.sensors.fingerprint.FingerprintService took to complete: 0ms
+11-09 12:15:51.993  5898  6355 D FingerprintProvider/defaultHIDL: Starting watchdog for fingerprint
+11-09 12:15:52.021  5898  5898 D FingerprintProvider/defaultHIDL: Initializing AuthenticationStatsCollector
+11-09 12:15:52.634     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:15:52.634     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:15:52.634     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:15:52.634     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 1
+11-09 12:15:52.677     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:52.678     0     0 I         : [7:fingerprint@2.1: 7277] etspi_reset
+11-09 12:15:52.708     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SENSOR_RESET
+11-09 12:15:52.708     0     0 I         : [7:fingerprint@2.1: 7277] etspi_reset
+11-09 12:15:52.752     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:15:52.752     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 0
+11-09 12:15:52.752     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:15:52.752     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:15:53.100  5898  6079 D BiometricScheduler: [Added] {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}, new queue size: 1
+11-09 12:15:53.100  5898  6079 D BiometricScheduler: [Polled] {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}, State: 0
+11-09 12:15:53.101  5898  6079 D HidlToAidlSessionAdapter: Fingerprint HAL ready, HAL ID: 516914302096
+11-09 12:15:53.101  5898  6079 D BiometricScheduler: [Started] {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}
+11-09 12:15:53.101  5898  6079 W BiometricStateCallback: Other authentication client: FingerprintInternalCleanupClient
+11-09 12:15:53.101  5898  6079 D BiometricStateCallback: State updated from 0 to 0, client {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}
+11-09 12:15:53.102  5898  6079 D InternalCleanupClient: Starting enumerate: {[6] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalEnumerateClient, proto=6, owner=android, cookie=0, requestId=-1, userId=0} enrolledList size:0
+11-09 12:15:53.108  5898  6079 V BiometricSchedulerOperation: started: {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}, State: 2
+11-09 12:15:53.109  5898  6079 D InternalCleanupClient: Enumerate onClientFinished: {[6] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalEnumerateClient, proto=6, owner=android, cookie=0, requestId=-1, userId=0}, success: true
+11-09 12:15:53.109  5898  6079 D BiometricStateCallback: Client finished, state updated to 0, client {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}
+11-09 12:15:53.110  5898  6079 D BiometricSchedulerOperation: [Finished / destroy]: {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}
+11-09 12:15:53.110  5898  6079 D BiometricScheduler: [Finishing] {[5] com.android.server.biometrics.sensors.fingerprint.aidl.FingerprintInternalCleanupClient, proto=7, owner=android, cookie=0, requestId=-1, userId=0}, success: true
+11-09 12:15:56.257  5898  8062 D SystemServerTimingAsync: ssm.onCompletedEventUser-0_{|Unlocked|}_com.android.server.biometrics.sensors.fingerprint.FingerprintService
+11-09 12:15:56.257  5898  8062 V SystemServerTimingAsync: ssm.onCompletedEventUser-0_{|Unlocked|}_com.android.server.biometrics.sensors.fingerprint.FingerprintService took to complete: 0ms
+11-09 12:16:02.752     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:16:02.752     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:16:02.753     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:16:02.753     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 1
+11-09 12:16:02.789     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SENSOR_RESET
+11-09 12:16:02.789     0     0 I         : [7:fingerprint@2.1: 7277] etspi_reset
+11-09 12:16:02.815     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl maintain type check from out of order :failed
+11-09 12:16:02.817     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl spi_value: 0xffffffff
+11-09 12:16:02.831     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:16:02.831     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 0
+11-09 12:16:02.831     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:16:02.831     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:16:02.831     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl maintain type check from out of order :failed
+11-09 12:16:02.832     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl spi_value: 0x0
+11-09 12:16:02.891     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_SET_SPI_CLOCK, clock = 20000000
+11-09 12:16:02.891     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl ENABLE_SPI_CLOCK
+11-09 12:16:02.891     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 1
+11-09 12:16:02.891     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 1
+11-09 12:16:02.935     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_CPU_SPEEDUP
+11-09 12:16:02.935     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_CPU_SPEEDUP ON:1, retry: 0
+11-09 12:16:02.935     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_CPU_SPEEDUP
+11-09 12:16:02.935     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_CPU_SPEEDUP OFF
+11-09 12:16:02.938     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_POWER_CONTROL, status = 0
+11-09 12:16:02.938     0     0 I         : [7:fingerprint@2.1: 7277] etspi_power_control status = 0
+11-09 12:16:02.938     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl FP_DISABLE_SPI_CLOCK
+11-09 12:16:02.938     0     0 I         : [7:fingerprint@2.1: 7277] etspi_ioctl DISABLE_SPI_CLOCK
+11-09 12:16:03.261     0     0 I         : [1:       Thread-2: 8699] [sec_input] sec_cmd_store: push cmd: fod_enable,1,1,0
+11-09 12:16:03.261     0     0 I         : [1:       Thread-2: 8699] [sec_input] sec_cmd_store_function: cmd = fod_enable param = 1 1 0
+11-09 12:16:03.264     0     0 I         : [1:       Thread-2: 8699] [sec_input] sec_cmd_show_result: fod_enable,1,1,0:OK
+11-09 12:17:43.870  6433  6433 D SettingsActivity: Switching to fragment com.android.settings.applications.appinfo.AppInfoDashboardFragment
+11-09 12:17:44.006  6433  6433 D AppInfoDashboard: NO dashboard tiles for AppInfoDashboard
+11-09 12:17:44.006  6433  6433 D AppInfoDashboard: All preferences added, reporting fully drawn

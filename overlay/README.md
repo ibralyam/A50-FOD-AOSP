@@ -1,8 +1,3 @@
-> **Status: investigation closed.** The FOD UI works. Enrollment does not.
-> The Trusted App returns error `38`. One lead is open: PROCA/FIVE in the kernel.
->
-> Quick links: [Overlay APK](overlay/README.md) | [Open hypothesis test plan](docs/PROCA_FIVE_TEST_PLAN.md) | [Send a test report](CONTRIBUTING.md) | [Logs](logs/README.md)
-
 # UDFPS Overlay
 
 `A50Udfps.apk` is a small static overlay. It makes the FOD UI appear on Android 16.
@@ -57,8 +52,8 @@ Try other `x, y, radius` values and report what changes. See [CONTRIBUTING.md](.
 
 ## SHA-256
 
-Add the checksum of the APK here:
+```
+593b0b76aa692813f6d251e4d132c249604ad7b0f87f390e7f8215d944e00448  A50Udfps.apk
+```
 
-```
-sha256sum A50Udfps.apk
-```
+Check it with `sha256sum A50Udfps.apk`.

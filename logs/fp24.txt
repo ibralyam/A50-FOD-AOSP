@@ -1,0 +1,79 @@
+#### /storage/6A8E-B47C/Download/A505f-vendor.img
+ro.vendor.build.security_patch=2022-01-05
+ro.vendor.build.fingerprint=samsung/a50dd/a50:11/RP1A.200720.012/A505FDDS9CUK1:user/release-keys
+ro.vendor.build.version.sdk=30
+== /data/local/tmp/m_A505f-vendor.img/bin/hw/vendor.lineage.biometrics.fingerprint.inscreen@1.0-service.a50
+# file: /data/local/tmp/m_A505f-vendor.img/bin/hw/vendor.lineage.biometrics.fingerprint.inscreen@1.0-service.a50
+security.selinux="u:object_r:hal_lineage_fod_default_exec:s0"
+
+== /data/local/tmp/m_A505f-vendor.img/bin/hw/vendor.samsung.hardware.biometrics.fingerprint@2.1-service.a50
+# file: /data/local/tmp/m_A505f-vendor.img/bin/hw/vendor.samsung.hardware.biometrics.fingerprint@2.1-service.a50
+security.selinux="u:object_r:hal_fingerprint_default_exec:s0"
+
+== /data/local/tmp/m_A505f-vendor.img/lib64/vendor.samsung.hardware.biometrics.fingerprint@2.1.so
+# file: /data/local/tmp/m_A505f-vendor.img/lib64/vendor.samsung.hardware.biometrics.fingerprint@2.1.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_A505f-vendor.img/lib64/libbauthserver.so
+# file: /data/local/tmp/m_A505f-vendor.img/lib64/libbauthserver.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_A505f-vendor.img/lib64/vendor.lineage.biometrics.fingerprint.inscreen@1.0.so
+# file: /data/local/tmp/m_A505f-vendor.img/lib64/vendor.lineage.biometrics.fingerprint.inscreen@1.0.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_A505f-vendor.img/lib64/libbauthtzcommon.so
+# file: /data/local/tmp/m_A505f-vendor.img/lib64/libbauthtzcommon.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_A505f-vendor.img/tee/00000000-0000-0000-0000-46494e474502
+# file: /data/local/tmp/m_A505f-vendor.img/tee/00000000-0000-0000-0000-46494e474502
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_A505f-vendor.img/tee/00000000-0000-0000-0000-46494e474552
+# file: /data/local/tmp/m_A505f-vendor.img/tee/00000000-0000-0000-0000-46494e474552
+security.selinux="u:object_r:vendor_file:s0"
+
+#### /storage/6A8E-B47C/Download/f4vendor.img
+ro.vendor.build.fingerprint=samsung/a50dd/a50:11/RP1A.200720.012/A505FDDS9CVA4:user/release-keys
+ro.vendor.build.version.sdk=31
+ro.vendor.build.security_patch=
+== /data/local/tmp/m_f4vendor.img/bin/hw/vendor.samsung.hardware.biometrics.fingerprint@3.0-service
+# file: /data/local/tmp/m_f4vendor.img/bin/hw/vendor.samsung.hardware.biometrics.fingerprint@3.0-service
+security.selinux="u:object_r:hal_fingerprint_default_exec:s0"
+
+== /data/local/tmp/m_f4vendor.img/lib64/android.hardware.biometrics.fingerprint@2.1.so
+# file: /data/local/tmp/m_f4vendor.img/lib64/android.hardware.biometrics.fingerprint@2.1.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_f4vendor.img/lib64/hw/fingerprint.default.so
+# file: /data/local/tmp/m_f4vendor.img/lib64/hw/fingerprint.default.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_f4vendor.img/lib64/libbauthserver.so
+# file: /data/local/tmp/m_f4vendor.img/lib64/libbauthserver.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_f4vendor.img/lib64/libbauthtzcommon.so
+# file: /data/local/tmp/m_f4vendor.img/lib64/libbauthtzcommon.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_f4vendor.img/lib64/vendor.samsung.hardware.biometrics.fingerprint@3.0.so
+# file: /data/local/tmp/m_f4vendor.img/lib64/vendor.samsung.hardware.biometrics.fingerprint@3.0.so
+security.selinux="u:object_r:vendor_file:s0"
+
+== /data/local/tmp/m_f4vendor.img/tee/00000000-0000-0000-0000-46494e474552
+# file: /data/local/tmp/m_f4vendor.img/tee/00000000-0000-0000-0000-46494e474552
+security.selinux="u:object_r:tee_file:s0"
+
+== /data/local/tmp/m_f4vendor.img/tee/00000000-0000-0000-0000-46494e474502
+# file: /data/local/tmp/m_f4vendor.img/tee/00000000-0000-0000-0000-46494e474502
+security.selinux="u:object_r:tee_file:s0"
+
+==NOW
+samsung/a50dd/a50:11/RP1A.200720.012/A505FDDS9CUK1:user/release-keys
+30
+system        5509     1   10839968   2696 binder_ioctl_write_read 0 S vendor.lineage.biometrics.fingerprint.inscreen@1.0-service.a50
+system       12492     1   10942540  21264 binder_ioctl_write_read 0 S vendor.samsung.hardware.biometrics.fingerprint@2.1-service.a50
+vendor.lineage.biometrics.fingerprint.inscreen@1.0-service.a50
+vendor.samsung.hardware.biometrics.fingerprint@2.1-service.a50
