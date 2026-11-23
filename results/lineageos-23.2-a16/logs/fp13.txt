@@ -1,0 +1,151 @@
+11-09 18:29:51.179     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:29:51.195     0     0 I         : [4:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:29:51.196     0     0 I         : [4:suspend-service:10299] etspi_pm_resume
+11-09 18:32:04.933     0     0 I         : [0:suspend-service:10299] etspi_pm_suspend
+11-09 18:32:04.934     0     0 I         : [0:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:32:05.228     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:32:05.245     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:32:05.246     0     0 I         : [7:suspend-service:10299] etspi_pm_resume
+11-09 18:34:04.678     0     0 I         : [5:suspend-service:10299] etspi_pm_suspend
+11-09 18:34:04.680     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:34:05.005     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:34:05.025     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:34:05.026     0     0 I         : [5:suspend-service:10299] etspi_pm_resume
+11-09 18:35:17.641     0     0 I         : [5:suspend-service:10299] etspi_pm_suspend
+11-09 18:35:17.642     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:35:17.955     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:35:17.975     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:35:17.975     0     0 I         : [7:suspend-service:10299] etspi_pm_resume
+11-09 18:35:18.518     0     0 I         : [5:suspend-service:10299] etspi_pm_suspend
+11-09 18:35:18.519     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:35:18.832     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:35:18.849     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:35:18.849     0     0 I         : [5:suspend-service:10299] etspi_pm_resume
+11-09 18:39:47.102     0     0 I         : [6:suspend-service:10299] etspi_pm_suspend
+11-09 18:39:47.104     0     0 I         : [6:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:39:47.388     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:39:47.405     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:39:47.405     0     0 I         : [7:suspend-service:10299] etspi_pm_resume
+11-09 18:43:38.098     0     0 I         : [3:suspend-service:10299] etspi_pm_suspend
+11-09 18:43:38.099     0     0 I         : [3:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:43:38.408     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:43:38.424     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:43:38.425     0     0 I         : [5:suspend-service:10299] etspi_pm_resume
+11-09 18:43:39.131     0     0 I         : [5:suspend-service:10299] etspi_pm_suspend
+11-09 18:43:39.133     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:43:39.458     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:43:39.479     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:43:39.479     0     0 I         : [7:suspend-service:10299] etspi_pm_resume
+11-09 18:45:17.957     0     0 I         : [5:suspend-service:10299] etspi_pm_suspend
+11-09 18:45:17.959     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:45:18.245     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:45:18.264     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:45:18.265     0     0 I         : [5:suspend-service:10299] etspi_pm_resume
+11-09 18:47:29.634     0     0 I         : [6:suspend-service:10299] etspi_pm_suspend
+11-09 18:47:29.635     0     0 I         : [6:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:47:29.947     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:47:29.964     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:47:29.964     0     0 I         : [7:suspend-service:10299] etspi_pm_resume
+11-09 18:50:11.281     0     0 I         : [5:suspend-service:10299] etspi_pm_suspend
+11-09 18:50:11.283     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:50:11.583     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:50:11.604     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:50:11.604     0     0 I         : [5:suspend-service:10299] etspi_pm_resume
+11-09 18:50:21.911     0     0 I         : [2:  kworker/u16:7:12853] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:50:23.416     0     0 I         : [3:suspend-service:10299] etspi_pm_suspend
+11-09 18:50:23.417     0     0 I         : [3:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:50:23.731     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:50:23.751     0     0 I         : [6:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:50:23.752     0     0 I         : [6:suspend-service:10299] etspi_pm_resume
+11-09 18:50:26.122     0     0 I [0:  kworker/u16:5:12851] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:50:26.122     0     0 I [0:  kworker/u16:5:12851] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:50:26.127     0     0 I         : [0:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:50:34.034     0     0 I         : [1:  kworker/u16:2:12848] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:50:40.717     0     0 I         : [0:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:50:44.859     0     0 I [1: kworker/u16:43:  543] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:50:44.859     0     0 I [1: kworker/u16:43:  543] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:50:44.863     0     0 I         : [4:         writer:10057] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:50:45.127     0     0 I         : [3:  kworker/u16:7:12853] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:50:52.645     0     0 I         : [0:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:50:56.008     0     0 I         : [2:  kworker/u16:2:12848] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:51:07.101     0     0 I         : [2:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:51:17.956     0     0 I         : [2:  kworker/u16:7:12853] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:51:29.049     0     0 I         : [1:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:51:30.328     0     0 I [2:  kworker/u16:3:12849] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:51:30.328     0     0 I [2:  kworker/u16:3:12849] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:51:30.331     0     0 I         : [4:         writer:10057] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:51:35.282     0     0 I         : [4:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:51:38.248     0     0 I [1:  kworker/u16:0:12847] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:51:38.248     0     0 I [1:  kworker/u16:0:12847] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:51:38.253     0     0 I         : [2:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:51:40.143     0     0 I         : [3:  kworker/u16:9:12856] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:51:41.349     0     0 I         : [2:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:51:45.358     0     0 I [0:  kworker/u16:0:12847] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:51:45.358     0     0 I [0:  kworker/u16:0:12847] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:51:45.364     0     0 I         : [4:         writer:10057] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:51:50.858     0     0 I         : [1:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:51:51.023     0     0 I         : [2:  kworker/u16:7:12853] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:51:52.529     0     0 I [1:  kworker/u16:2:12848] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:51:52.529     0     0 I [1:  kworker/u16:2:12848] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:51:52.535     0     0 I         : [1:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:51:55.632     0     0 I         : [3:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:52:02.117     0     0 I         : [0: kworker/u16:43:  543] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:52:05.739     0     0 I [1:  kworker/u16:1:   71] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:52:05.739     0     0 I [1:  kworker/u16:1:   71] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:52:05.742     0     0 I         : [3:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:52:12.996     0     0 I         : [1:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:52:14.677     0     0 I         : [0:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:52:19.126     0     0 I [0:  kworker/u16:2:12848] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:52:19.126     0     0 I [0:  kworker/u16:2:12848] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:52:19.131     0     0 I         : [1:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:52:22.221     0     0 I         : [1:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:52:24.090     0     0 I         : [2:  kworker/u16:9:12856] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:52:26.506     0     0 I [0:  kworker/u16:1:   71] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:52:26.506     0     0 I [0:  kworker/u16:1:   71] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:52:26.513     0     0 I         : [4:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:52:31.693     0     0 I         : [0:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:52:34.970     0     0 I         : [3:  kworker/u16:2:12848] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:52:38.924     0     0 I [2: kworker/u16:43:  543] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:52:38.924     0     0 I [2: kworker/u16:43:  543] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:52:38.927     0     0 I         : [6:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:52:42.104     0     0 I         : [5:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:52:44.903     0     0 I [1:  kworker/u16:0:12847] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:52:44.903     0     0 I [1:  kworker/u16:0:12847] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:52:44.910     0     0 I         : [6:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:52:46.063     0     0 I         : [2:  kworker/u16:0:12847] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:52:48.011     0     0 I         : [0:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:52:50.275     0     0 I [0:  kworker/u16:3:12849] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:52:50.275     0     0 I [0:  kworker/u16:3:12849] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:52:50.283     0     0 I         : [3:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:52:56.304     0     0 I         : [3:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:52:57.157     0     0 I         : [0:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:53:08.039     0     0 I         : [0:  kworker/u16:2:12848] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:53:10.779     0     0 I [2:  kworker/u16:2:12848] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 18:53:10.779     0     0 I [2:  kworker/u16:2:12848] tfa_run_startup: skip writing registers under profile (0)
+11-09 18:53:10.780     0     0 I         : [5:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 18:53:14.007     0     0 I         : [1:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 18:53:19.130     0     0 I         : [2:  kworker/u16:3:12849] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:53:30.010     0     0 I         : [1:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:53:41.103     0     0 I         : [0:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:53:51.983     0     0 I         : [1:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:54:03.077     0     0 I         : [0:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:54:13.957     0     0 I         : [2:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:54:25.050     0     0 I         : [2:  kworker/u16:3:12849] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:54:36.143     0     0 I         : [2:  kworker/u16:3:12849] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:54:47.023     0     0 I         : [2:  kworker/u16:3:12849] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:54:58.116     0     0 I         : [0:  kworker/u16:1:   71] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:55:08.997     0     0 I         : [3:  kworker/u16:0:12847] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:55:20.090     0     0 I         : [3:  kworker/u16:3:12849] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:55:30.970     0     0 I         : [2:  kworker/u16:3:12849] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:55:42.063     0     0 I         : [1:  kworker/u16:0:12847] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+11-09 18:58:09.666     0     0 I         : [7:suspend-service:10299] etspi_pm_suspend
+11-09 18:58:09.667     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 18:58:09.966     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 18:58:09.983     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 18:58:09.984     0     0 I         : [5:suspend-service:10299] etspi_pm_resume
+11-09 18:59:59.689     0     0 I         : [5:suspend-service:10299] etspi_pm_suspend
+11-09 18:59:59.690     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 19:00:00.003     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 19:00:00.024     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 19:00:00.024     0     0 I         : [7:suspend-service:10299] etspi_pm_resume
+===DT

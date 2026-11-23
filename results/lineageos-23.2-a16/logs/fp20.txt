@@ -1,0 +1,49 @@
+alarmtimer android_fs asoc binder block bpf cfg80211 cgroup clk cma compaction cpuhp dma_fence dwc3 ems emulation enable erofs ext4 f2fs fib fib6 filelock filemap ftrace gadget gpio gpu header_event header_page i2c iommu ipi irq jbd2 kmem mali mdio mfc migrate mmap mmc module namei napi net oom page_isolation pagemap percpu power printk qdisc random raw_syscalls rcu regmap regulator rpm sched scsi signal skb smbus sock spi swiotlb sync_trace task thermal thermal_power_allocator timer udp ufs v4l2 vb2 vmscan workqueue writeback xdp xhci-hcd 
+on spi
+on regulator
+on gpio
+ fingerprint@2.1-11486 [003] ....  1273.863431: regulator_enable: name=VDD_BTP_3P3
+ fingerprint@2.1-11486 [003] ....  1273.863522: regulator_enable_delay: name=VDD_BTP_3P3
+ fingerprint@2.1-11486 [003] ....  1273.863807: regulator_enable_complete: name=VDD_BTP_3P3
+ fingerprint@2.1-11486 [003] ....  1273.865870: gpio_value: 160 set 1
+ fingerprint@2.1-11486 [002] ....  1273.889573: gpio_value: 160 set 0
+ fingerprint@2.1-11486 [002] ....  1273.889589: regulator_disable: name=VDD_BTP_3P3
+ fingerprint@2.1-11486 [002] ....  1273.889711: regulator_disable_complete: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [005] ....  1273.945229: regulator_enable: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [005] ....  1273.945304: regulator_enable_delay: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [005] ....  1273.945565: regulator_enable_complete: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [005] ....  1273.947590: gpio_value: 160 set 1
+ vendor.samsung.-12187 [006] ....  1274.024121: gpio_value: 160 set 0
+ vendor.samsung.-12187 [006] ....  1274.025268: gpio_value: 160 set 1
+ vendor.samsung.-12187 [006] ....  1274.050672: gpio_value: 160 set 0
+ vendor.samsung.-12187 [006] ....  1274.051852: gpio_value: 160 set 1
+ vendor.samsung.-12187 [000] ....  1274.082327: gpio_value: 160 set 0
+ vendor.samsung.-12187 [000] ....  1274.082340: regulator_disable: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [000] ....  1274.082440: regulator_disable_complete: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [006] ....  1275.083540: regulator_enable: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [006] ....  1275.083617: regulator_enable_delay: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [006] ....  1275.083897: regulator_enable_complete: name=VDD_BTP_3P3
+ vendor.samsung.-12187 [006] ....  1275.085956: gpio_value: 160 set 1
+ vendor.samsung.-12187 [006] ....  1275.117325: gpio_value: 160 set 0
+ vendor.samsung.-12187 [006] ....  1275.118477: gpio_value: 160 set 1
+ vendor.samsung.-12187 [006] ....  1275.144005: gpio_value: 160 set 0
+ vendor.samsung.-12187 [006] ....  1275.145185: gpio_value: 160 set 1
+ fingerprint@2.1-12188 [004] ....  1275.210812: gpio_value: 160 set 0
+ fingerprint@2.1-12188 [004] ....  1275.211968: gpio_value: 160 set 1
+ fingerprint@2.1-12188 [004] ....  1275.237209: gpio_value: 160 set 0
+ fingerprint@2.1-12188 [004] ....  1275.238376: gpio_value: 160 set 1
+ fingerprint@2.1-12188 [005] ....  1275.268078: gpio_value: 160 set 0
+ fingerprint@2.1-12188 [005] ....  1275.268089: regulator_disable: name=VDD_BTP_3P3
+ fingerprint@2.1-12188 [005] ....  1275.268168: regulator_disable_complete: name=VDD_BTP_3P3
+  kworker/u16:50-625   [002] ....  1276.430458: gpio_value: 160 get 0
+ fingerprint@2.1-12188 [001] ....  1280.270406: regulator_enable: name=VDD_BTP_3P3
+ fingerprint@2.1-12188 [001] ....  1280.270491: regulator_enable_delay: name=VDD_BTP_3P3
+ fingerprint@2.1-12188 [001] ....  1280.270780: regulator_enable_complete: name=VDD_BTP_3P3
+ fingerprint@2.1-12188 [001] ....  1280.272873: gpio_value: 160 set 1
+ fingerprint@2.1-12188 [003] ....  1280.309289: gpio_value: 160 set 0
+ fingerprint@2.1-12188 [003] ....  1280.310477: gpio_value: 160 set 1
+ fingerprint@2.1-12188 [003] ....  1280.337017: gpio_value: 160 set 0
+ fingerprint@2.1-12188 [003] ....  1280.338227: gpio_value: 160 set 1
+ fingerprint@2.1-12188 [007] ....  1280.369708: gpio_value: 160 set 0
+ fingerprint@2.1-12188 [007] ....  1280.369721: regulator_disable: name=VDD_BTP_3P3
+ fingerprint@2.1-12188 [007] ....  1280.369804: regulator_disable_complete: name=VDD_BTP_3P3

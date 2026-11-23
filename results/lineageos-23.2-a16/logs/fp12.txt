@@ -1,0 +1,139 @@
+crw-rw---- 1 system system u:object_r:fp_sensor_device:s0  152,   0 2026-11-09 15:03 /dev/esfp0
+== /sys/devices/virtual/fingerprint/fingerprint/adm
+1
+== /sys/devices/virtual/fingerprint/fingerprint/bfs_values
+"FP_SPICLK":"20000000"
+== /sys/devices/virtual/fingerprint/fingerprint/name
+ET713
+== /sys/devices/virtual/fingerprint/fingerprint/position
+13.77,0.00,7.29,7.29,14.80,14.80,12.00,12.00,5.00
+== /sys/devices/virtual/fingerprint/fingerprint/power
+cat: /sys/devices/virtual/fingerprint/fingerprint/power: Is a directory
+== /sys/devices/virtual/fingerprint/fingerprint/subsystem
+cat: /sys/devices/virtual/fingerprint/fingerprint/subsystem: Is a directory
+== /sys/devices/virtual/fingerprint/fingerprint/type_check
+0
+== /sys/devices/virtual/fingerprint/fingerprint/uevent
+== /sys/devices/virtual/fingerprint/fingerprint/vendor
+EGISTEC
+[ 1014.875390] exynos_acme: CPUFREQ domain1 registered
+[ 1014.892026] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1014.892293] gif: gnss_resume: KEPLER: pd_active:1
+[ 1014.892514] etspi_pm_resume
+[ 1015.574535] etspi_pm_suspend
+[ 1015.574622] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1015.576071] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1015.902025] exynos_acme: CPUFREQ domain1 registered
+[ 1015.922807] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1015.923217] gif: gnss_resume: KEPLER: pd_active:1
+[ 1015.923338] etspi_pm_resume
+[ 1016.454914] etspi_pm_suspend
+[ 1016.455003] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1016.456432] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1016.754805] exynos_acme: CPUFREQ domain1 registered
+[ 1016.774382] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1016.774645] gif: gnss_resume: KEPLER: pd_active:1
+[ 1016.774900] etspi_pm_resume
+[ 1017.308591] etspi_pm_suspend
+[ 1017.308675] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1017.309501] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1017.634789] exynos_acme: CPUFREQ domain1 registered
+[ 1017.651568] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1017.651807] gif: gnss_resume: KEPLER: pd_active:1
+[ 1017.652063] etspi_pm_resume
+[ 1018.109661] etspi_pm_suspend
+[ 1018.109749] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1018.111175] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1018.421540] exynos_acme: CPUFREQ domain1 registered
+[ 1018.438183] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1018.438427] gif: gnss_resume: KEPLER: pd_active:1
+[ 1018.438646] etspi_pm_resume
+[ 1018.927415] etspi_pm_suspend
+[ 1018.927537] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1018.928963] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1019.247817] exynos_acme: CPUFREQ domain1 registered
+[ 1019.264690] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1019.264935] gif: gnss_resume: KEPLER: pd_active:1
+[ 1019.265200] etspi_pm_resume
+[ 1019.786495] etspi_pm_suspend
+[ 1019.786582] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1019.787444] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1020.087761] exynos_acme: CPUFREQ domain1 registered
+[ 1020.104358] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1020.104624] gif: gnss_resume: KEPLER: pd_active:1
+[ 1020.104828] etspi_pm_resume
+[ 1020.562575] etspi_pm_suspend
+[ 1020.562665] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1020.564086] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1020.874121] exynos_acme: CPUFREQ domain1 registered
+[ 1020.893595] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1020.893932] gif: gnss_resume: KEPLER: pd_active:1
+[ 1020.894068] etspi_pm_resume
+[ 1021.413288] etspi_pm_suspend
+[ 1021.413370] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1021.414096] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1021.727385] exynos_acme: CPUFREQ domain1 registered
+[ 1021.744184] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1021.744430] gif: gnss_resume: KEPLER: pd_active:1
+[ 1021.744678] etspi_pm_resume
+[ 1022.427305] etspi_pm_suspend
+[ 1022.427390] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1022.428820] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1022.754031] exynos_acme: CPUFREQ domain1 registered
+[ 1022.770421] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1022.770658] gif: gnss_resume: KEPLER: pd_active:1
+[ 1022.770905] etspi_pm_resume
+[ 1023.551407] etspi_pm_suspend
+[ 1023.551564] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1023.552466] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1023.846953] exynos_acme: CPUFREQ domain1 registered
+[ 1023.863590] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1023.863864] gif: gnss_resume: KEPLER: pd_active:1
+[ 1023.864082] etspi_pm_resume
+[ 1024.986969] etspi_pm_suspend
+[ 1024.987056] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1024.988636] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1025.313803] exynos_acme: CPUFREQ domain1 registered
+[ 1025.334281] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1025.334521] gif: gnss_resume: KEPLER: pd_active:1
+[ 1025.334768] etspi_pm_resume
+[ 1025.866102] etspi_pm_suspend
+[ 1025.866185] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1025.867054] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1026.180079] exynos_acme: CPUFREQ domain1 registered
+[ 1026.199668] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1026.199915] gif: gnss_resume: KEPLER: pd_active:1
+[ 1026.200164] etspi_pm_resume
+[ 1026.719011] etspi_pm_suspend
+[ 1026.719096] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1026.719956] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1027.033317] exynos_acme: CPUFREQ domain1 registered
+[ 1027.050139] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1027.050381] gif: gnss_resume: KEPLER: pd_active:1
+[ 1027.050631] etspi_pm_resume
+[ 1027.507850] etspi_pm_suspend
+[ 1027.507938] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1027.509355] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1027.793257] exynos_acme: CPUFREQ domain1 registered
+[ 1027.809990] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1027.810223] gif: gnss_resume: KEPLER: pd_active:1
+[ 1027.810446] etspi_pm_resume
+[ 1028.270196] etspi_pm_suspend
+[ 1028.270348] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1028.271270] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1028.579891] exynos_acme: CPUFREQ domain1 registered
+[ 1028.596537] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1028.596873] gif: gnss_resume: KEPLER: pd_active:1
+[ 1028.597041] etspi_pm_resume
+[ 1029.279529] etspi_pm_suspend
+[ 1029.279616] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1029.281203] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1029.606470] exynos_acme: CPUFREQ domain1 registered
+[ 1029.627020] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[ 1029.627258] gif: gnss_resume: KEPLER: pd_active:1
+[ 1029.627507] etspi_pm_resume
+[ 1030.158925] etspi_pm_suspend
+[ 1030.159012] gif: gnss_suspend: KEPLER: pd_active:0
+[ 1030.160606] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[ 1030.446178] exynos_acme: CPUFREQ domain1 registered
+Linux localhost 4.14.194 - Mint Beta 1413 #1 SMP PREEMPT Wed Jul 30 03:56:10 PST 2025 aarch64 Toybox

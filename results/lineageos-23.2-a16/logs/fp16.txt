@@ -1,0 +1,98 @@
+11-09 19:03:48.819     0     0 I [3:  kworker/u16:8:14313] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:03:48.819     0     0 I [3:  kworker/u16:8:14313] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:03:48.825     0     0 I         : [0:         writer:10057] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:03:53.877     0     0 I         : [4:HwBinder:5829_4: 8908] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:07:00.708     0     0 I         : [4:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 19:07:01.035     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 19:07:01.053     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 19:07:01.749     0     0 I         : [6:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 19:07:02.060     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 19:07:02.081     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 19:07:41.730     0     0 I [0:  kworker/u16:4:14311] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:07:41.730     0     0 I [0:  kworker/u16:4:14311] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:07:41.735     0     0 I         : [0:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:07:48.841     0     0 I         : [0:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:08:07.756     0     0 I [2:  kworker/u16:4:14311] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:08:07.756     0     0 I [2:  kworker/u16:4:14311] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:08:07.763     0     0 I         : [1:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:08:14.818     0     0 I         : [0:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:08:16.625     0     0 I [2:  kworker/u16:0:12847] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:08:16.625     0     0 I [2:  kworker/u16:0:12847] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:08:16.627     0     0 I         : [6:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:08:19.727     0     0 I         : [0:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:08:21.748     0     0 I [2:  kworker/u16:2:12848] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:08:21.748     0     0 I [2:  kworker/u16:2:12848] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:08:21.757     0     0 I         : [6:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:08:28.615     0     0 I         : [4:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:09:42.952     0     0 I [1:  kworker/u16:0:12847] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:09:42.954     0     0 I [1:  kworker/u16:0:12847] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:09:42.956     0     0 I         : [6:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:09:46.050     0     0 I         : [2:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:09:46.511     0     0 I [2:  kworker/u16:4:14311] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:09:46.511     0     0 I [2:  kworker/u16:4:14311] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:09:46.519     0     0 I         : [6:         writer:10057] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:12:06.298     0     0 I         : [6:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:12:06.811     0     0 I [2:  kworker/u16:2:12848] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:12:06.811     0     0 I [2:  kworker/u16:2:12848] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:12:06.814     0     0 I         : [5:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:12:13.690     0     0 I         : [5:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:12:14.632     0     0 I [3:  kworker/u16:4:14311] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:12:14.632     0     0 I [3:  kworker/u16:4:14311] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:12:14.649     0     0 I         : [0:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:12:17.743     0     0 I         : [5:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:12:20.871     0     0 I [1:  kworker/u16:2:12848] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:12:20.871     0     0 I [1:  kworker/u16:2:12848] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:12:20.877     0     0 I         : [2:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:12:28.148     0     0 I         : [1:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:13:10.889     0     0 I [0:  kworker/u16:7:12853] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:13:10.889     0     0 I [0:  kworker/u16:7:12853] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:13:10.893     0     0 I         : [5:         writer:10057] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:13:15.867     0     0 I         : [2:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:13:17.361     0     0 I [1:  kworker/u16:8:14313] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:13:17.361     0     0 I [1:  kworker/u16:8:14313] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:13:17.366     0     0 I         : [3:         writer:10057] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:13:22.321     0     0 I         : [0:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:16:17.429     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 19:16:17.705     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 19:16:17.723     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 19:19:16.101     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 19:19:16.402     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 19:19:16.422     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 19:21:28.253     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 19:21:28.545     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 19:21:28.562     0     0 I         : [5:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 19:21:41.340     0     0 I         : [2:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+11-09 19:21:41.652     0     0 I [4:        cpuhp/4:   45] exynos_acme: CPUFREQ domain1 registered
+11-09 19:21:41.672     0     0 I         : [7:suspend-service:10299] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+11-09 19:21:54.672     0     0 I [1:  kworker/u16:8:14313] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:21:54.672     0     0 I [1:  kworker/u16:8:14313] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:21:54.677     0     0 I         : [3:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:22:02.046     0     0 I         : [1:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:22:04.064     0     0 I [3:  kworker/u16:7:12853] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:22:04.064     0     0 I [3:  kworker/u16:7:12853] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:22:04.071     0     0 I         : [1:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:22:10.566     0     0 I         : [0:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:22:15.048     0     0 I [3: kworker/u16:10:14314] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:22:15.048     0     0 I [3: kworker/u16:10:14314] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:22:15.055     0     0 I         : [3:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:22:22.097     0     0 I         : [6:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:24:21.552     0     0 I [2:  kworker/u16:5:17611] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:24:21.552     0     0 I [2:  kworker/u16:5:17611] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:24:21.557     0     0 I         : [3:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+11-09 19:24:26.650     0     0 I         : [1:HwBinder:5829_2: 5833] Exynos9610-audio sound: exynos9610_rt5665_hw_free: uaifp_cnt 0, uaifc_cnt 0
+11-09 19:24:29.455     0     0 I [2:  kworker/u16:3:17610] tfa_run_startup: skip init and writing registers under dev (0:0)
+11-09 19:24:29.455     0     0 I [2:  kworker/u16:3:17610] tfa_run_startup: skip writing registers under profile (0)
+11-09 19:24:29.460     0     0 I         : [3:         writer: 7299] Exynos9610-audio sound: exynos9610_rt5665_hw_params: uaifp_cnt 1, uaifc_cnt 0
+==HEX
+00000000: 4661 696c                                Fail
+00000000: 3132 3061 3463 3436 3530 3465 3338 3330  120a4c46504e3830
+00000010: 3333                                     33
+00000000: 02                                       .
+00000000: 0000 0000 0000 0000 0000 0000 0000 0000  ................
+00000010: 0000 0000 0000 0000 0000 0000 0000 0000  ................
+00000020: 0000 0000 0000 0000 0000 0000 0000 0000  ................
+00000000: 04e0 1f06 00f0 0300 0001 0100 00b7 36ee  ..............6.
+00000010: 0a95 9883 f753 3219 9d30 ffc9 33d9 a600  .....S2..0..3...
+00000020: 0000 0000 0000 0000 0000 0000 0000 0000  ................
+00000000-0000-0000-0000-46494e474502
+00000000-0000-0000-0000-46494e474552

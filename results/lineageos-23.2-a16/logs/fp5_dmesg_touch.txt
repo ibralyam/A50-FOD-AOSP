@@ -1,0 +1,123 @@
+[15985.217835] [sec_input] sec_cmd_store: push cmd: fod_enable,1,1
+[15985.217851] [sec_input] sec_cmd_store_function: cmd = fod_enable param = 1 1
+[15986.240164] [sec_input] sec_cmd_show_result: fod_enable,1,1:OK
+[15988.677218] tfa_run_startup: skip init and writing registers under dev (0:0)
+[15988.677230] tfa_run_startup: skip writing registers under profile (0)
+[15992.205599] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[15993.469375] tfa_run_startup: skip init and writing registers under dev (0:0)
+[15993.469385] tfa_run_startup: skip writing registers under profile (0)
+[16003.298900] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16014.179346] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16025.272505] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16034.607750] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16034.607767] tfa_run_startup: skip writing registers under profile (0)
+[16036.152606] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16047.245957] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16058.126102] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16069.219419] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16080.312219] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16080.386499] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16080.386508] tfa_run_startup: skip writing registers under profile (0)
+[16083.921625] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16083.921643] tfa_run_startup: skip writing registers under profile (0)
+[16088.621067] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16088.621080] tfa_run_startup: skip writing registers under profile (0)
+[16091.192216] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16095.906601] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16095.906614] tfa_run_startup: skip writing registers under profile (0)
+[16102.285525] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16106.353099] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16106.353118] tfa_run_startup: skip writing registers under profile (0)
+[16111.151450] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16111.151467] tfa_run_startup: skip writing registers under profile (0)
+[16113.165602] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16119.694421] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16119.694444] tfa_run_startup: skip writing registers under profile (0)
+[16124.262316] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16130.405925] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16130.405936] tfa_run_startup: skip writing registers under profile (0)
+[16135.138845] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16136.588391] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16136.588405] tfa_run_startup: skip writing registers under profile (0)
+[16140.535050] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16140.535066] tfa_run_startup: skip writing registers under profile (0)
+[16144.716944] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16144.716951] tfa_run_startup: skip writing registers under profile (0)
+[16146.232851] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16157.112774] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16168.206128] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16179.299603] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16190.179581] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16201.272769] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16211.106510] etspi_pm_suspend
+[16211.108201] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[16211.423319] exynos_acme: CPUFREQ domain1 registered
+[16211.440564] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[16211.441044] etspi_pm_resume
+[16211.961211] etspi_pm_suspend
+[16211.962848] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[16212.275930] exynos_acme: CPUFREQ domain1 registered
+[16212.295616] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[16212.296119] etspi_pm_resume
+[16212.813503] etspi_pm_suspend
+[16212.815194] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[16213.102348] exynos_acme: CPUFREQ domain1 registered
+[16213.122785] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[16213.123276] etspi_pm_resume
+[16213.581218] etspi_pm_suspend
+[16213.582022] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[16213.862178] exynos_acme: CPUFREQ domain1 registered
+[16213.883000] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[16213.883489] etspi_pm_resume
+[16218.740734] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16218.740747] tfa_run_startup: skip writing registers under profile (0)
+[16224.312237] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16235.191615] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16238.907810] servicemanager: Caller(pid=31037,uid=1000,sid=u:r:system_app:s0) Could not find vendor.xiaomi.hw.touchfeature.ITouchFeature/default in the VINTF manifest. No alternative instances declared in VINTF.
+[16238.944139] [sec_input] sec_cmd_store: push cmd: fod_enable,1,1,0
+[16238.944164] [sec_input] sec_cmd_store_function: cmd = fod_enable param = 1 1 0
+[16238.945960] [sec_input] sec_cmd_show_result: fod_enable,1,1,0:OK
+[16245.956755] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16245.956775] tfa_run_startup: skip writing registers under profile (0)
+[16246.284925] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16252.811010] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16252.811024] tfa_run_startup: skip writing registers under profile (0)
+[16257.164952] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16262.062165] [sec_input] sec_cmd_store: push cmd: fod_enable,1,1
+[16262.062181] [sec_input] sec_cmd_store_function: cmd = fod_enable param = 1 1
+[16263.087461] [sec_input] sec_cmd_show_result: fod_enable,1,1:OK
+[16263.092669] [sec_input] sec_cmd_store: push cmd: fod_enable,0
+[16263.092687] [sec_input] sec_cmd_store_function: cmd = fod_enable param = 0
+[16268.258441] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16279.138346] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16290.231690] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16301.325095] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16312.205653] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16323.298617] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16326.824255] etspi_pm_suspend
+[16326.825770] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[16327.144848] exynos_acme: CPUFREQ domain1 registered
+[16327.165603] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[16327.166092] etspi_pm_resume
+[16327.826623] etspi_pm_suspend
+[16327.828173] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[16328.128731] exynos_acme: CPUFREQ domain1 registered
+[16328.149123] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[16328.149592] etspi_pm_resume
+[16328.603261] etspi_pm_suspend
+[16328.604380] ieee80211 phy.: wlbt: I: wlan_suspend: Nofity registered functions
+[16328.888565] exynos_acme: CPUFREQ domain1 registered
+[16328.909370] ieee80211 phy.: wlbt: I: wlan_resume: Nofity registered functions
+[16328.909895] etspi_pm_resume
+[16331.444530] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16331.444550] tfa_run_startup: skip writing registers under profile (0)
+[16339.297948] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16342.919064] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16342.919080] tfa_run_startup: skip writing registers under profile (0)
+[16348.191029] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16348.191203] tfa_run_startup: skip writing registers under profile (0)
+[16350.177830] etspi_work_func_debug ldo: 0, sleep: 0, tz: 1, spi_value: 0x0, type: failed
+[16351.601612] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16351.601640] tfa_run_startup: skip writing registers under profile (0)
+[16357.261027] tfa_run_startup: skip init and writing registers under dev (0:0)
+[16357.261044] tfa_run_startup: skip writing registers under profile (0)

@@ -1,0 +1,104 @@
+#gpio-cells
+compatible
+controller-data
+etspi-chipid
+etspi-modelinfo
+etspi-position
+etspi-regulator
+etspi-sleepPin
+gpio-controller
+name
+pinctrl-0
+pinctrl-1
+pinctrl-2
+pinctrl-names
+reg
+spi-max-frequency
+== /proc/device-tree/spi@13910000/etspi-spi@0/#gpio-cells
+00000000: 0000 0002                                ....
+== /proc/device-tree/spi@13910000/etspi-spi@0/compatible
+etspi,et7xx
+00000000: 6574 7370 692c 6574 3778 7800            etspi,et7xx.
+== /proc/device-tree/spi@13910000/etspi-spi@0/controller-data
+strings: /proc/device-tree/spi@13910000/etspi-spi@0/controller-data: Is a directory
+== /proc/device-tree/spi@13910000/etspi-spi@0/etspi-chipid
+ET713
+00000000: 4554 3731 3300                           ET713.
+== /proc/device-tree/spi@13910000/etspi-spi@0/etspi-modelinfo
+A505
+00000000: 4135 3035 00                             A505.
+== /proc/device-tree/spi@13910000/etspi-spi@0/etspi-position
+13.77,0.00,7.29,7.29,14.80,14.80,12.00,12.00,5.00
+00000000: 3133 2e37 372c 302e 3030 2c37 2e32 392c  13.77,0.00,7.29,
+00000010: 372e 3239 2c31 342e 3830 2c31 342e 3830  7.29,14.80,14.80
+== /proc/device-tree/spi@13910000/etspi-spi@0/etspi-regulator
+VDD_BTP_3P3
+00000000: 5644 445f 4254 505f 3350 3300            VDD_BTP_3P3.
+== /proc/device-tree/spi@13910000/etspi-spi@0/etspi-sleepPin
+00000000: 0000 00ea 0000 0000 0000 0000            ............
+== /proc/device-tree/spi@13910000/etspi-spi@0/gpio-controller
+== /proc/device-tree/spi@13910000/etspi-spi@0/name
+etspi-spi
+00000000: 6574 7370 692d 7370 6900                 etspi-spi.
+== /proc/device-tree/spi@13910000/etspi-spi@0/pinctrl-0
+00000000: 0000 01c3                                ....
+== /proc/device-tree/spi@13910000/etspi-spi@0/pinctrl-1
+00000000: 0000 01c4 0000 01c5 0000 01c6 0000 01c7  ................
+== /proc/device-tree/spi@13910000/etspi-spi@0/pinctrl-2
+00000000: 0000 01c8 0000 01c9                      ........
+== /proc/device-tree/spi@13910000/etspi-spi@0/pinctrl-names
+default
+pins_poweron
+pins_poweroff
+00000000: 6465 6661 756c 7400 7069 6e73 5f70 6f77  default.pins_pow
+00000010: 6572 6f6e 0070 696e 735f 706f 7765 726f  eron.pins_powero
+== /proc/device-tree/spi@13910000/etspi-spi@0/reg
+00000000: 0000 0000                                ....
+== /proc/device-tree/spi@13910000/etspi-spi@0/spi-max-frequency
+00000000: 02fa f080                                ....
+==REG
+vdd2_mem enabled 1100000
+vdd_lldo enabled 1300000
+vdd_mldo enabled 2000000
+vdd_ldo1 enabled 750000
+vdd_ldo3 enabled 1800000
+vdd_ldo4 enabled 612500
+vdd_ldo5 enabled 850000
+vdd_ldo6 enabled 1200000
+vdd_ldo7 enabled 1800000
+tsp_ldo_en enabled 3000000
+vdd_ldo8 enabled 750000
+vdd_ldo9 enabled 750000
+vdd_ldo10 enabled 750000
+vdd_ldo11 enabled 750000
+vdd_ldo12 disabled 850000
+vdd_ldo13 disabled 1800000
+vdd_ldo14 disabled 3000000
+vdd_ldo33 disabled 1800000
+vdd_ldo34 disabled 2950000
+vdd_ldo36 enabled 750000
+vdd_ldo37 disabled 2800000
+VDD_BTP_3P3 disabled 3300000
+vdd_ldo39 disabled 1800000
+vdd_ldo41 disabled 3000000
+vdd_ldo43 enabled 750000
+vdd_ldo44 disabled 1200000
+RCAM1_DVDD_1P05 disabled 1050000
+vdd_mif enabled 762500
+FCAM_DVDD_1P05 disabled 1050000
+CAM_VDDIO_1P8 disabled 1800000
+RCAM3_DVDD_1P2 disabled 1200000
+RCAM2_AVDD_2P8 disabled 2800000
+RCAM1_AVDD_2P8 disabled 2800000
+FCAM_AVDD_2P8 disabled 2800000
+vdd_cpucl1 enabled 943750
+vdd_cpucl0 enabled 687500
+vdd_int enabled 743750
+vdd_g3d enabled 581250
+vdd_cam_vipx enabled 606250
+==GPIO
+ gpio-23  (                    |mot_ldo_en          ) out lo    
+ gpio-56  (                    |sensor_ldo_en       ) out hi    
+ gpio-153 (                    |grip_ldo_en         ) out hi    
+ gpio-160 (                    |etspi_sleep         ) out lo    
+ gpio-161 (                    |tsp_ldo_en          ) out hi    
