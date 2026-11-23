@@ -1,2 +1,0 @@
-REG=/sys/class/regulator/regulator.32
-19:32:56.401796059 disabled  gpio-160 (                    |etspi_sleep         ) out lo    
