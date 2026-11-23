@@ -32,17 +32,23 @@ Result values: Not tested, Partial, Closed (no fix found), Solved.
 A50-UDFPS-AOSP/
 ├── .github/
 │   └── ISSUE_TEMPLATE/
-│       └── test-report.md      : Issue template for new test reports
+│       └── test-report.md        : Issue template for new test reports
 ├── docs/
-│   ├── INVESTIGATION.md        : Full LineageOS 23.2 analysis & logs summary
-│   ├── PROCA_FIVE_TEST_PLAN.md : Open kernel lead & step-by-step test plan
-│   └── vendor_structure.md     : A505f vendor partition layout
-├── overlay/                    : UDFPS overlay APK & notes
+│   ├── INVESTIGATION.md          : Full LineageOS 23.2 analysis & logs summary
+│   ├── PROCA_FIVE_TEST_PLAN.md   : Open kernel lead & step-by-step test plan
+│   └── vendor_structure.md       : A505f vendor partition layout
+├── overlay/
+│   ├── A50Udfps.apk              : UDFPS overlay APK
+│   └── README.md                 : Overlay notes & setup
 ├── results/
-│   ├── lineageos-23.2-a16/     : Test results + touch-no-enroll capture
-│   └── TEMPLATE.md             : Format template for new test entries
-├── CONTRIBUTING.md             : How to submit a result
-└── README.md                   : Matrix, preview & quick entry point
+│   ├── lineageos-23.2-a16/
+│   │   ├── logs/                 : Capture & dmesg log files (21 files)
+│   │   ├── README.md             : LineageOS 23.2 test summary
+│   │   ├── udfps-touch-no-enroll.gif : Preview animation
+│   │   └── udfps-touch-no-enroll.mp4 : Screen capture video
+│   └── TEMPLATE.md               : Format template for new test entries
+├── CONTRIBUTING.md               : How to submit a result
+└── README.md                     : Matrix, preview & quick entry point
 ```
 
 ## Documents
