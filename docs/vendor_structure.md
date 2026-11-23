@@ -829,5 +829,4 @@ It was mounted and listed. No files are included, only names.
 │   ├── keylayout
 │   │   ├── sec_touchscreen.kl
 ─────────────────────────────────────────
-✅ Pemetaan selesai! Hasil disimpan di: /Download/Telegram/struktur_vendor_a505f.txt
 ```
