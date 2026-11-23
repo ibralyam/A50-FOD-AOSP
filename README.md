@@ -26,6 +26,25 @@ Result values: Not tested, Partial, Closed (no fix found), Solved.
 
 ![UDFPS touch no enroll](results/lineageos-23.2-a16/udfps-touch-no-enroll.gif)
 
+## Structure
+
+```text
+A50-UDFPS-AOSP/
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       └── test-report.md      : Issue template for new test reports
+├── docs/
+│   ├── INVESTIGATION.md        : Full LineageOS 23.2 analysis & logs summary
+│   ├── PROCA_FIVE_TEST_PLAN.md : Open kernel lead & step-by-step test plan
+│   └── vendor_structure.md     : A505f vendor partition layout
+├── overlay/                    : UDFPS overlay APK & notes
+├── results/
+│   ├── lineageos-23.2-a16/     : Test results + touch-no-enroll capture
+│   └── TEMPLATE.md             : Format template for new test entries
+├── CONTRIBUTING.md             : How to submit a result
+└── README.md                   : Matrix, preview & quick entry point
+```
+
 ## Documents
 
 | File | What it covers |
