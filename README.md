@@ -26,10 +26,6 @@ Result values: Not tested, Partial, Closed (no fix found), Solved.
 
 ![UDFPS touch no enroll](results/lineageos-23.2-a16/udfps-touch-no-enroll.gif)
 
-## Review
-
-- _Add your review notes for new ROM, vendor, or kernel tests here._
-
 ## Documents
 
 | File | What it covers |
